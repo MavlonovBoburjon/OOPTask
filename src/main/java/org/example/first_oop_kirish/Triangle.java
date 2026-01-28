@@ -1,4 +1,4 @@
-package org.example;
+package org.example.first_oop_kirish;
 
 public class Triangle {
 
